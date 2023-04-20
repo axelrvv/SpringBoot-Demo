@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.pluralsight.conferencedemo.ConferenceDemoApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.463 s - in com.pluralsight.conferencedemo.ConferenceDemoApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.161 s - in com.pluralsight.conferencedemo.ConferenceDemoApplicationTests
